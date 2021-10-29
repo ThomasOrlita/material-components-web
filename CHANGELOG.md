@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [13.1.0](https://github.com/material-components/material-components-web/compare/v13.0.0...v13.1.0) (2021-10-29)
+
+
+### Bug Fixes
+
+* **iconbutton:** Set icon button ripple z-index to -1. ([586e740](https://github.com/material-components/material-components-web/commit/586e740ddcaa674c409d68ab5faf9ee8c61e2d91))
+* **list:** Remove conflicting validation for checkbox list in setEnabled ([353ca7e](https://github.com/material-components/material-components-web/commit/353ca7e9f21b3589a17d25d8892198cba811dd13))
+* **menusurface:** Add a getOwnerDocument() method to MDCMenuSurfaceAdapter to provide a reference to the document that owns the menu surface DOM element. ([3486659](https://github.com/material-components/material-components-web/commit/348665978ce73694ad4518626dd70cdf5b984113))
+
+
+### Features
+
+* **chips:** Added elevation tint layer color support in chips ([c78ff04](https://github.com/material-components/material-components-web/commit/c78ff042967de7cf823a9f9826f8f613be9e4846))
+* **iconbutton:** Add link icon button Sass. ([9803d2d](https://github.com/material-components/material-components-web/commit/9803d2dc1c88e44b43a56249916f474581f5382e))
+* **menu:** allow preferentially opening surface below anchor ([261f2db](https://github.com/material-components/material-components-web/commit/261f2db59382d561d6c89a7c41dafb6daad5a717))
+* **state:** make context aware ([b2fe352](https://github.com/material-components/material-components-web/commit/b2fe3528bc1603df715c833abb5d905080681102))
+* add new class and mixin for open state of a menu item ([9a02b6e](https://github.com/material-components/material-components-web/commit/9a02b6ef8e8f235c7bd07cd8c6ce9078a46dbb78))
+* Describe how to add child lists into a list item. ([758ce31](https://github.com/material-components/material-components-web/commit/758ce31d94d065b93d09db0016ec86b56d9197ec))
+
+
+
+
+
 # [13.0.0](https://github.com/material-components/material-components-web/compare/v12.0.0...v13.0.0) (2021-09-24)
 
 
